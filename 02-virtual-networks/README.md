@@ -15,7 +15,7 @@ connect the networks privately.
 
 ## Network Architecture
 
-[Network Diagram](screenshots/network-diagram.png)
+[Network Diagram](Screenshots/network-diagram.png)
 
 ## Step-by-step — what I did
 
@@ -47,12 +47,12 @@ connect the networks privately.
   privately without traversing the public internet
 
 ## Screenshots
-| Resource group | [RG](screenshots/01-resource-group.png)
-| vnet-hub overview | [Hub](screenshots/02-vnet-hub.png) 
-| vnet-spoke overview | [Spoke](screenshots/03-vnet-spoke.png)
-| NSG inbound rules | [NSG](screenshots/04-nsg-rules.png) 
-| NSG subnet association | [Assoc](screenshots/05-nsg-association.png) 
-| VNet peering connected | [Peering](screenshots/06-vnet-peering.png) 
+| Resource group | [RG](Screenshots/01-resource-group.png)
+| vnet-hub overview | [Hub](Screenshots/02-vnet-hub.png) 
+| vnet-spoke overview | [Spoke](Screenshots/03-vnet-spoke.png)
+| NSG inbound rules | [NSG](Screenshots/04-nsg-rules.png) 
+| NSG subnet association | [Assoc](Screenshots/05-nsg-association.png) 
+| VNet peering connected | [Peering](Screenshots/06-vnet-peering.png) 
 
 
 ## Key concepts demonstrated
