@@ -47,15 +47,13 @@ connect the networks privately.
   privately without traversing the public internet
 
 ## Screenshots
-
-| Step | Screenshot |
-| Resource group | ![RG](screenshots/01-resource-group.png) |
-| vnet-hub overview | ![Hub](screenshots/02-vnet-hub.png) |
-| vnet-spoke overview | ![Spoke](screenshots/03-vnet-spoke.png) |
-| NSG inbound rules | ![NSG](screenshots/04-nsg-rules.png) |
-| NSG subnet association | ![Assoc](screenshots/05-nsg-association.png) |
-| VNet peering connected | ![Peering](screenshots/06-vnet-peering.png) |
-| Cleanup complete | ![Cleanup](screenshots/07-cleanup.png) |
+| Resource group | [RG](screenshots/01-resource-group.png) |
+| vnet-hub overview | [Hub](screenshots/02-vnet-hub.png) |
+| vnet-spoke overview | [Spoke](screenshots/03-vnet-spoke.png) |
+| NSG inbound rules | [NSG](screenshots/04-nsg-rules.png) |
+| NSG subnet association | [Assoc](screenshots/05-nsg-association.png) |
+| VNet peering connected | [Peering](screenshots/06-vnet-peering.png) |
+| Cleanup complete | [Cleanup](screenshots/07-cleanup.png) |
 
 
 ## Key concepts demonstrated
