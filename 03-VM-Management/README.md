@@ -52,16 +52,16 @@ backup, and auto-shutdown for cost management.
 - Prevents unexpected charges from forgotten running VMs
 
 ## Screenshots
-| Resource group | [RG](screenshots/01-resource-group.png) |
-| Windows VM deployed | [Win](screenshots/02-vm-windows.png) |
-| Linux VM deployed | [Linux](screenshots/03-vm-linux.png) |
-| Both VMs running | [Both](screenshots/04-both-vms-running.png) |
-| Availability Set | [AvSet](screenshots/05-availability-set.png) |
-| Bastion connection | [Bastion](screenshots/06-bastion-connection.png) |
-| Bastion VM | [BastionVM](screenshots/07-bastion-vm.png) |
-| VM Snapshot | [Snap](screenshots/08-snapshot.png) |
-| Auto-shutdown | [Shutdown](screenshots/09-auto-shutdown.png) |
-| Cleanup complete | ![Clean](screenshots/10-cleanup.png) |
+| Resource group | [RG](screenshot/01-resource-group.png) |
+| Windows VM deployed | [Win](screenshot/02-vm-windows.png) |
+| Linux VM deployed | [Linux](screenshot/03-vm-linux.png) |
+| Both VMs running | [Both](screenshot/04-both-vms-running.png) |
+| Availability Set | [AvSet](screenshot/05-availability-set.png) |
+| Bastion connection | [Bastion](screenshot/06-bastion-connection.png) |
+| Bastion VM | [BastionVM](screenshot/07-bastion-vm.png) |
+| VM Snapshot | [Snap](screenshot/08-snapshot.png) |
+| Auto-shutdown | [Shutdown](screenshot/09-auto-shutdown.png) |
+| Cleanup complete | ![Clean](screenshot/10-cleanup.png) |
 
 ## Key concepts demonstrated
 - VM deployment — Windows and Linux side by side
